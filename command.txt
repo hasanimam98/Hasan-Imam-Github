@@ -1,0 +1,7 @@
+# one time or each project to start git mane protita project creat korar por git e update hok eta chaile
+git initial proti project e ekbr use korte hbe
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hasanimam98/Hasan-Imam-Github.git
+git push -u origin main
